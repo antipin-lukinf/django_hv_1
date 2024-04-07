@@ -1,0 +1,40 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\antip\PycharmProjects\GB_django_HV_1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /prefix/about/ HTTP/1.1" 200 8
+Not Found: /about/
+"GET /about/ HTTP/1.1" 404 2210
+"GET /prefix/about/ HTTP/1.1" 200 8
+Not Found: /prefix/index
+"GET /prefix/index HTTP/1.1" 404 2463
+Not Found: /index
+"GET /index HTTP/1.1" 404 2207
+Not Found: /
+"GET / HTTP/1.1" 404 2174
+Not Found: /
+"GET / HTTP/1.1" 404 2174
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/base.css HTTP/1.1" 200 21544
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+Not Found: /
+"GET / HTTP/1.1" 404 2174
+C:\Users\antip\PycharmProjects\GB_django_HV_1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /prefix/about/ HTTP/1.1" 200 8
+C:\Users\antip\PycharmProjects\GB_django_HV_1\myapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /prefix/index HTTP/1.1" 301 0
+"GET /prefix/index/ HTTP/1.1" 200 13
+C:\Users\antip\PycharmProjects\GB_django_HV_1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /prefix/index/ HTTP/1.1" 200 5
+C:\Users\antip\PycharmProjects\GB_django_HV_1\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
